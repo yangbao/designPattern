@@ -1,12 +1,12 @@
 package proxy.staticProxy;
 
-import designPattern.proxy.Vehicle;
+import proxy.Vehicle;
 
 /**
  * Created by u6035457 on 9/26/2017.
  * 使用继承实现的静态代理
  */
-public class Car extends Vehicle {
+public class CarnheritIForProy extends Vehicle {
 
     @Override
     public void move() {
